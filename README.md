@@ -1,12 +1,13 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 37 < Auth /> and <Login /> with React Context
 
-### Author: Student/Group Name
+### Author: Kevin O'Halloran
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/Kevinoh47/lab-37)
+* [codesandbox](https://codesandbox.io/s/o9o62ojoq5)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [front-end](http://xyz.com)
